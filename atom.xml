@@ -2,13 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hhhmoe.github.io</id>
     <title>Geeek</title>
-    <updated>2021-06-16T06:58:20.214Z</updated>
+    <updated>2021-06-16T11:24:21.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hhhmoe.github.io"/>
     <link rel="self" href="https://hhhmoe.github.io/atom.xml"/>
     <logo>https://hhhmoe.github.io/images/avatar.png</logo>
     <icon>https://hhhmoe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Geeek</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://hhhmoe.github.io/A82PC4Qd3/</id>
+        <link href="https://hhhmoe.github.io/A82PC4Qd3/">
+        </link>
+        <updated>2021-06-16T11:19:58.000Z</updated>
+        <content type="html"><![CDATA[<p>Hello World！<br>
+注册了3年的geeek.top域名，用Github托管的Blog就这样先建立起来了，想想前前后后重启了博客项目得有三四次了，之前都是因为经验不足，学业繁忙，无法打理等等原因而使得计划中途流产，现在高中毕业了，可以正式的沉下心去玩，去写，去反思了。<br>
+祝我玩得愉快！！<br>
+2021.6.12晚于东营</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hhhmoe.github.io/hello-gridea/</id>
